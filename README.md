@@ -8,3 +8,5 @@ Add links to your github repo with OOP lab.
 Бондар - https://github.com/BondarOleg98/Console_game
 
 Савінов - https://github.com/kAVArd/Laba2_Savinov
+
+Хижняк - https://github.com/KhyzhniakAlex/.NetPatterns
